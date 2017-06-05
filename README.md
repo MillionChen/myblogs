@@ -4,4 +4,4 @@
 	> 添加图片语法
 	>图片来自网络
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")  
-##节本语法![百度](http://www.baidu.com/img/bdlogo.gif "百度logo")  	
+##节本语法![百度](http://www.baidu.com/img/bdlogo.gif "百度logo")###  	
